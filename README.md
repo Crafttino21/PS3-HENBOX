@@ -29,5 +29,15 @@ Planed Function:
 - Custom HEN Installer 8in Case ps3xploit is going offline/sizend again)
 - Some other Nice Features
 
+
+Support the Projects:
+HENBox:
+BTC: bc1qgm4792q7jnpdjt5dnsvc2xppr9v05u5xvdlch3
+XMR: 42PyLaZmMqD3VNzPR5jccwWEuitMXcU1B6JwBpuBGoSNCKbqhG7wyZhJzwLMq6S83ya6w4FmXevLHRRew6FWmHqk2vqp1JM
+PS3Xoloit.me:
+PayPal: https://www.paypal.me/nopsn
+
+
+
 ![image](https://github.com/Crafttino21/PS3-HENBOX/assets/58913870/e1b107e9-7a0a-49a7-99b2-6d473755b76d)
 
