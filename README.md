@@ -23,5 +23,11 @@ Functions:
 - HAN Flash mount rewrite
 - bgtoolset (For CFW Users)
 
+Planed Function:
+- Better Looking Design
+- HENabler Perfomance boost
+- Custom HEN Installer 8in Case ps3xploit is going offline/sizend again)
+- Some other Nice Features
+
 ![image](https://github.com/Crafttino21/PS3-HENBOX/assets/58913870/e1b107e9-7a0a-49a7-99b2-6d473755b76d)
 
