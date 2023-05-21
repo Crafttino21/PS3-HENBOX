@@ -23,6 +23,17 @@ Functions:
 - HAN Flash mount rewrite
 - bgtoolset (For CFW Users)
 
+Custom Toolbox:
+- bgtoolset
+- Wipe sysCalls*
+- Check FTP state*
+- Block PSN*
+- Restore PSN Servers*
+- Show minimum Possible downgrade*
+- Dump Console ID*
+
+(*)Needs webMAN Mod Installed!
+
 Planed Function:
 - Better Looking Design
 - HENabler Perfomance boost
